@@ -11,7 +11,6 @@ Full Stack Developer with expertise in Rust, Node.js, and Blockchain technologie
 - TypeScript
 - Golang
 
-
 ### Backend
 - Node.js
 - Express
@@ -34,14 +33,6 @@ Full Stack Developer with expertise in Rust, Node.js, and Blockchain technologie
 - PostgreSQL
 - MongoDB
 
-## 🚀 What I Do
-
-I build scalable, secure applications with a focus on:
-- High-performance backends with Rust or Go
-- Scalable APIs with Node.js
-- Smart contracts and dApps
-- Responsive and interactive frontends
-
 ## 🔥 Featured Projects
 
 ### Rust
@@ -51,7 +42,6 @@ I build scalable, secure applications with a focus on:
 - **Discord BOTs**
 - **Solana Tools**
 - **Full stack development**
-
 
 ## 🌱 Currently Learning
 - Learning and improving my Go knowledge
