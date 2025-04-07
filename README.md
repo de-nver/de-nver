@@ -49,6 +49,8 @@ Full Stack Developer with expertise in Rust, Node.js, and Blockchain technologie
 ## 📫 Contact Me
 - Email: eldenver.dev@gmail.com
 - GitHub: de-nver
+- Discord: de.nver
+- Telegram: deeenverdev
 
 ```rust
 fn main() {
