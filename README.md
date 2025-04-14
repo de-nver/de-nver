@@ -7,9 +7,9 @@ Full Stack Developer with expertise in Rust, Node.js, and Blockchain technologie
 
 ### Languages
 - Rust
+- Golang
 - JavaScript
 - TypeScript
-- Golang
 
 ### Backend
 - Node.js
@@ -23,7 +23,7 @@ Full Stack Developer with expertise in Rust, Node.js, and Blockchain technologie
 - Tailwind CSS
 
 ### Blockchain
-- Solana
+- Solana Developer
 - Smart Contract Development
 - BOT Development
 - Tools Development
@@ -41,7 +41,8 @@ Full Stack Developer with expertise in Rust, Node.js, and Blockchain technologie
 ### Node.js
 - **Discord BOTs**
 - **Solana Tools**
-- **Full stack development**
+- **Frontend for websites**
+- **Backend for websites**
 
 ## 🌱 Currently Learning
 - Learning and improving my Go knowledge
